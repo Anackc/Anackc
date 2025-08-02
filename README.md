@@ -7,7 +7,7 @@ I'm a data analyst from Brazil 🇧🇷 with a degree in statistics.
 - 💣 I know how to win minesweeper.
 
 
-## I code with
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
